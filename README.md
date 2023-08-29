@@ -10,5 +10,3 @@ Faça um fork deste repositorio e implemente a função exlcuirElemento
 
 * Feito por Cristhofer Chow
 * cristhofer.chow@fatec.sp.gov.br
-* 
-
